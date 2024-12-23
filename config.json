@@ -1,0 +1,9 @@
+{
+  "project": "Git Practice",
+  "version": "1.0.0",
+  "settings": {
+    "theme": "dark",
+    "autosave": true,
+    "max_users": 10
+  }
+}
