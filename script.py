@@ -11,7 +11,7 @@ def calculate_sum(a, b):
     """
     Function to calculate the sum of two numbers.
     """
-    return a + b
+    return a - b
 
 if __name__ == "__main__":
     print(greet_user("Git Collaborator"))
