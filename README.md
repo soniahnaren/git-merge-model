@@ -1,5 +1,11 @@
 # Shared Repository for Git Practice
 
+
+## Additional Notes
+
+This repository is for educational purposes only.
+
+
 Welcome to the shared repository for practicing Git workflows! This repository contains sample files to help you learn how to:
 
 - Clone a repository.
